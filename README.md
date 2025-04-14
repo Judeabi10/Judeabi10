@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jude Abi</h1>
+<h3 align="center">I'm currently pursuing my BTech in Computer Science and Engineering. I'm passionate about tech and continuous learning.</h3>
 
-<!--
-**Judeabi10/Judeabi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a project - Unified Campus System
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about HTML, CSS, JavaScript
+
+- 📫 How to reach me: judeabi10@gmail.com
+
+- ⚡ Fun fact: I love turning coffee into code ☕💻
+
+---
+
+
+### 💻 Tech Stack:
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+
+---
+
+### 📈 GitHub Stats:
+
+![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeabi10&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judeabi10&layout=compact&theme=radical)
+
+---
+
+### ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
