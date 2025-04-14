@@ -23,13 +23,7 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeabi10&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judeabi10&layout=compact&theme=radical)
-
----
+https://github-readme-activity-graph.cyclic.app/graph?username=judeabi10&theme=dracula
 
 ### ✍️ Random Dev Quote
 
