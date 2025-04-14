@@ -23,8 +23,6 @@
 
 ---
 
-https://github-readme-activity-graph.cyclic.app/graph?username=judeabi10&theme=dracula
-
 ### ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
