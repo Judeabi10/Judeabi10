@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on a project - Unified Campus System
 
-- 🌱 I’m currently learning React
-
-- 💬 Ask me about HTML, CSS, JavaScript
+- 💬 Ask me about HTML, CSS
 
 - 📫 How to reach me: judeabi10@gmail.com
 
@@ -18,8 +16,6 @@
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 ---
 
